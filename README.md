@@ -1,1 +1,2 @@
-Use defaulter data from different states in USA and complete a simple power BI visualization including a slicer
+Create different and interesting power BI dashboards to solve real business issues and offer and visualize insights in a quick manner
+
